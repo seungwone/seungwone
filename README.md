@@ -2,7 +2,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aahhll654)](https://solved.ac/aahhll654/)
 
 ## 💻 Experience
-- 삼성 청년 SW 아카데미 13기 모바일 트랙 (2025.01 ~ )
+- 삼성청년SW·AI아카데미 13기 모바일 트랙 (2025.01 ~ )
 - SW마에스트로 15기 (2024.04 ~ 2024.12)
   - 쉽고 짧은 숏폼 뉴스 플랫폼 '[**뉴스낵**](https://github.com/Kkokkomu/swm_kkokkomu_frontend)'
 - 홍익대학교 컴퓨터공학과 (2023.03 ~ 2025.02)
